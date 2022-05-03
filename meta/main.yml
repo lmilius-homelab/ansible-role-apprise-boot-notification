@@ -1,0 +1,19 @@
+---
+galaxy_info:
+  role_name: apprise-boot-notifications
+  author: Alex Kretzschmar
+  description: Uses apprise to configure a notifcation via pushover at boot
+  issue_tracker_url: https://github.com/ironicbadger/ansible-role-apprise-boot-notification/issues
+  license: GPLv2
+  min_ansible_version: 2.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  categories:
+  - system
+  - web
+dependencies: []
