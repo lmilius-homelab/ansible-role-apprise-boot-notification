@@ -1,1 +1,1 @@
-apprise_path = "/usr/bin/apprise"
+apprise_path: "/usr/bin/apprise"
